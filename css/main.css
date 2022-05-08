@@ -1,0 +1,31 @@
+.navhead .nav-link {
+    color: rgba(255, 255, 255, .5);
+}
+
+.navhead .active {
+    color: #fff;
+}
+
+.navhead :hover {
+    color: #ced4da;
+}
+
+.sectionDivider {
+    height: 2.25rem;
+}
+
+.galleryCaption {
+    right: 5%;
+    left: 5%;
+    bottom: 0.25rem;
+    padding-bottom: 0; 
+}
+
+.galleryContainer {
+    background-color: black;
+}
+
+.headingCenter {
+    position: relative;
+    top: 3px;
+}

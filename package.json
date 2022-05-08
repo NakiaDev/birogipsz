@@ -1,0 +1,22 @@
+{
+  "name": "birogipsz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NakiaDev/birogipsz.git"
+  },
+  "author": "Nakia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NakiaDev/birogipsz/issues"
+  },
+  "homepage": "https://github.com/NakiaDev/birogipsz#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
